@@ -1,0 +1,19 @@
+*
+	margin 0
+	padding 0
+	font-family Microsoft YaHei
+
+$bg = #0d0f17
+
+html,body{
+	width 100%
+	height 100%
+	background-color $bg
+}
+
+ul, li, ol
+	list-style none
+a
+	color #ffffff
+	text-decoration none
+	font-size 20px

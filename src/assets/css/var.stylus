@@ -1,0 +1,15 @@
+
+// css通用变量
+
+$header-bg = #000000
+
+$font-size = 14px
+
+$font-color = #ffffff
+
+$g-width = 1200px
+
+$residue(a,b)
+    a = unit(a, px)
+    b = unit(b, px)
+    a - b
